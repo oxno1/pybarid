@@ -95,7 +95,7 @@ all_messages = await client.get_messages_batch(emails)
 
 ## Credits
 
-Uses [Barid API](https://api.barid.site/) by [vwh]([https://vwh.sh/](https://github.com/vwh)).
+Uses [Barid API](https://api.barid.site/) by [vwh](https://github.com/vwh).
 
 ---
 
